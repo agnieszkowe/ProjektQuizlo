@@ -1,4 +1,4 @@
-# ProjektQuizlo
+# Projekt Quizlo
 Zadania do prezentacji na temat aplikacji Quizlo
 # Zadanie 1
 W pliku SelectedCategory.java spraw aby przyciski oraz etykiety pojawiały się i znikały w zależności od ilości pytań w danej kategorii.

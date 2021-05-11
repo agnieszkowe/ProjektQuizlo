@@ -291,11 +291,12 @@ public class SelectedCategory extends JFrame{
         deleteQuiz3.setVisible(false);
         deleteQuiz4.setVisible(false);
         deleteQuiz5.setVisible(false);
-
-
+        
+        if (quizNames.size() > 0) {
         //ZADANIE 1
         // W pliku SelectedCategory.java spraw aby przyciski oraz etykiety pojawiały się i znikały
         // w zależności od ilości pytań w danej kategorii.
-
+        
+        }
     }
 }

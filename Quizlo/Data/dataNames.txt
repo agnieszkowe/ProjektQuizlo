@@ -1,4 +1,0 @@
-quiz-name
-Animals
-quiz-name-2
-Animals
